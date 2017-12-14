@@ -1,0 +1,25 @@
+[General metadata]
+Identifier,ESCAP:000001
+Submission date,12-15-2017
+Title,Sentiment Analysis of Gender Equality Discourse on Twitter
+Description,
+Publications,
+Related publications,
+Project team,"Dr David Johnson, Christopher Sean Lovell"
+Submitter contact email,david.johnson@djson.net
+
+[Computational configuration]
+Hardware,t2.micro on Amazon Web Services
+Software,Python 3.6
+OS,Ubuntu 16.04
+Installed packages,"tweepy, jupyter, nltk"
+
+[Context]
+Country/region,Asia-Pacific region
+SDGs,SDG5
+Goal,"Experimentation, development of new measurement, proxy data"
+
+[Data sources]
+Organization,Twitter
+Endpoint,Twitter API
+License,Twitter Developer Agreement and Policy

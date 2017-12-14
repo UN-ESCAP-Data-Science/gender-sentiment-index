@@ -1,0 +1,6 @@
+tweepy
+nltk
+pandas
+jupyter
+gensim
+matplotlib
