@@ -1,16 +1,24 @@
-# README #
+<img src="http://tfig.unece.org/images/logos/unescap-logo.png" align="right" width="300px" />
 
-Notebook for UNESCAP Big Data project
+# A Study of Gender Sentiment on Twitter
 
-### Summary ###
+Version: 1.0
 
-This is an example notebook as a demonstrator for the SDG Data Lab.
+## Author
+
+[David Johnson](http://djson.io), *Big Data Consultant*, for [UNESCAP](http://www.unescap.org).
+
+## Overview
+
+A Jupyter Notebook on Twitter sentiment experiments towards develping a Gender Sentiment Index.
+
+This is an example notebook to act as a demonstrator for the SDG Data Lab.
 
 ### How do I get set up? ###
-
 ```
 pip install -r requirements.txt
 jupyter notebook
 ```
 
-Look in `Sentiment Analysis of Gender Equality Discourse on Twitter.ipynb`
+Look in `A Study of Gender Sentiment on Twitter.ipynb`
+
